@@ -1,0 +1,273 @@
+.logo {
+    font-size: 28px;
+}
+
+.hamburger-menu {
+    right: 0;
+}
+
+.hamburger-menu-checkbox:checked ~ .header-nav-list li {
+    font-size: 18px;
+}
+
+.header-nav-list li:last-child a {
+    font-size: 18px;
+}
+
+.home-img img {
+    width: 100%;
+}
+
+.home-text-title {
+    font-size: 26px;
+}
+
+.home-text-desc {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.partners-logo {
+    min-width: 150px;
+    margin-bottom: 10px;
+}
+
+.section-title {
+    font-size: 26px;
+    padding: 0 10px;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.about-part {
+    font-size: 16px;
+    min-width: 300px;
+}
+
+.about-img {
+    min-width: 320px;
+    padding:  unset;
+    /* width:  100%; */
+}
+
+.about-img img {
+    width: 90%;
+}
+
+.prizes i {
+    font-size: 36px;
+    margin-right: 20px;
+}
+
+.prizes span {
+    font-size: 36px;
+}
+
+.prizes p {
+    font-size: 14px;
+    margin-left: 60px;
+}
+
+.section-title-desc {
+    font-size: 16px;
+}
+
+.prizes {
+    margin: 10px 0;
+}
+
+.service-item {
+    width: 100%;
+}
+
+.service-item-icon i {
+    font-size: 30px;
+}
+
+.service-item-icon {
+    width: 50px;
+    height: 50px;
+}
+
+h3.service-item-title {
+    font-size: 18px;
+}
+
+.service-item-desc {
+    font-size: 16px;
+}
+
+.service-item::after {
+    right: -30%;
+    top: -45%;
+}
+
+.service-bottom-each {
+    width: 100%;
+}
+
+.service-item-big-title {
+    font-size: 20px;
+}
+
+.service-item-big-desc {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.service-item-big-a {
+    font-size: 12px;
+}
+
+
+.features-boxes-each {
+    width: 100%;
+    min-width: unset;
+    max-width: unset;
+    margin:  10px 0;
+}
+
+.features-boxes-each a {
+    font-size: 16px;
+}
+
+.features-boxes-each i {
+    font-size: 32px;
+}
+
+.comment-box {
+    min-width: 300px;
+    width: 80%;
+}
+
+.comment-box-desc h3 {
+    font-size: 18px;
+}
+
+.comment-box-desc span {
+    font-size: 14px;
+}
+
+.comment-box-desc-p {
+    font-size: 16px;
+    line-height: 25px;
+}
+
+
+.category-item-text {
+    font-size: 16px;
+}
+
+.all {
+    width: 100%;
+}
+
+.portfolio-info h4 {
+    font-size: 20px;
+}
+
+.portfolio-info p {
+    font-size: 14px;
+}
+
+.portfolio-info-icons {
+    font-size: 28px;
+}
+
+.team-section-box {
+    width: 100%;
+}
+
+.team-section-box-desc h3 {
+    font-size: 18px;
+}
+
+.team-section-box-desc span {
+    font-size: 13px;
+}
+
+.team-section-box-desc-hover a i {
+    font-size: 18px;
+}
+
+
+.pricing-section-content-box {
+    width: 100%;
+}
+
+.pricing-section-content-box h3 {
+    font-size: 18px;
+}
+
+span.month-price-dollar {
+    font-size: 52px;
+}
+
+.month-price-fm {
+    font-size: 16px;
+}
+
+.pricing-section-content-box p {
+    font-size: 16px;
+}
+
+.icofont-question-circle {
+    font-size: 24px;
+}
+
+.answer-section-title h4 {
+    font-size: 16px;
+}
+
+.answer-section-desc p {
+    font-size: 15px;
+}
+
+.contact-info-title {
+    font-size: 28px;
+}
+
+.contact-info-desc {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.contact-social-icons i {
+    font-size: 18px;
+}
+
+.contact-address-icon {
+    font-size: 32px;
+}
+
+.contact-address-desc {
+    font-size: 14px;
+}
+
+.contact-address {
+    padding: unset;
+}
+
+.footer-copyright p {
+    font-size: 14px;
+}
+
+.footer-links a {
+    font-size: 14px;
+}
+
+.service-item-big {
+    padding:  10px 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
